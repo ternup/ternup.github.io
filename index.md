@@ -1,5 +1,5 @@
 ---
-title: Title Page
+title: Ternup Research Labs
 layout: default
 ---
 

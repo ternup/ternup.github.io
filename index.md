@@ -13,4 +13,4 @@ In 2014, the team joined [Akvo Foundation](http://akvo.org), and [Caddisfly beca
 
 Ternup ceased active operations in December 2016.
 
-Part of the Caddisfly team at Akvo now operate as [Foundation for Environmental Monitoring](http://ffem.io), a nonprofit company based in Bangalore, India, where they continue to build opensource products.
+Part of the Caddisfly team at Akvo now operate as [Foundation for Environmental Monitoring](http://ffem.io), a nonprofit company based in Bangalore, India, where they continue to build opensource products. This [post](http://akvo.org/blog/akvo-spins-off-environmental-sensor-organisation-ffem/) provides some context.
